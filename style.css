@@ -3,5 +3,8 @@ margin:0px;
 padding:0px;
 }
 .items{
+	height:30px;
+	width:800px;
+	border:none;
 	border-bottom: 2px solid black;
 }
